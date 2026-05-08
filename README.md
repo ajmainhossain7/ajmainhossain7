@@ -1,17 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080810,40:1a0533,100:a371f7&text=Ajmain%20Hossain&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=✦%20%20MERN%20Stack%20Developer%20%20✦&descSize=20&descColor=c4a5fa&descAlignY=64&stroke=7c3aed&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:04040d,40:0f0c29,70:1e1b6e,100:0ea5e9&text=Ajmain%20Hossain&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=44&desc=✦%20%20MERN%20Stack%20Developer%20%20✦&descSize=20&descColor=a5b4fc&descAlignY=66&stroke=6366f1&strokeWidth=1" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A371F7&center=true&vCenter=true&width=520&height=40&lines=MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Building+clean+%26+powerful+web+apps;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=0ea5e9&center=true&vCenter=true&width=540&height=40&lines=MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Building+clean+%26+powerful+web+apps;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ajmainhossain7">
-    <img src="https://komarev.com/ghpvc/?username=ajmainhossain7&label=Profile%20views&color=a371f7&style=flat-square" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ajmainhossain7&label=Profile%20views&color=6366f1&style=flat-square" alt="profile views" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-7c3aed?style=flat-square&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-6366f1?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20🇧🇩-a371f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20🇧🇩-0ea5e9?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Work-22c55e?style=flat-square" />
 </p>
@@ -31,17 +31,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajmainhossain7&cache_seconds=7200&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=080810&title_color=a371f7&icon_color=c4a5fa&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajmainhossain7&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=04040d&title_color=6366f1&icon_color=0ea5e9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajmainhossain7&langs_count=6&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=080810&title_color=a371f7&text_color=ffffff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajmainhossain7&langs_count=6&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=04040d&title_color=6366f1&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajmainhossain7&theme=radical&hide_border=true&background=080810&ring=a371f7&fire=c4a5fa&currStreakLabel=a371f7&sideLabels=c4a5fa&dates=888" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ajmainhossain7&theme=tokyonight&hide_border=true&background=04040d&ring=6366f1&fire=0ea5e9&currStreakLabel=6366f1&sideLabels=a5b4fc&dates=4b5563" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmainhossain7&theme=tokyo-night&radius=10&hide_border=true&bg_color=080810&color=a371f7&line=7c3aed&point=c4a5fa" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmainhossain7&theme=tokyo-night&radius=10&hide_border=true&bg_color=04040d&color=6366f1&line=0ea5e9&point=a5b4fc" alt="Activity Graph" />
 </p>
 
 ---
@@ -71,5 +71,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a371f7,100:080810&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,60:1e1b6e,100:04040d&section=footer" width="100%"/>
 </div>
