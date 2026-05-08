@@ -16,7 +16,27 @@
   <img src="https://img.shields.io/badge/Open%20to-Work-22c55e?style=flat-square" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics and a deep understanding of software engineering principles. My mission is to build digital products that are not just functional, but offer an *"expensive"* feel through smooth interactions and premium design.
+
+<br/>
+
+- &nbsp; Currently building full-stack web apps with **React** & **Node.js**
+- &nbsp; Exploring **Node.js**, **MongoDB** & **Express.js** in depth
+- &nbsp; Obsessed with clean UI & premium user experiences
+- &nbsp; Diving deeper into **Next.js** & server-side rendering
+- &nbsp; Open to collaborating on exciting **MERN** projects
+- &nbsp; Ask me about **React**, **JavaScript**, or **UI design**
+- &nbsp; Reach me at **ajmainh0@gmail.com**
+
+<br clear="right"/>
 
 ---
 
