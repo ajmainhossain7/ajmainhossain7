@@ -20,7 +20,7 @@
 
 ---
 
-## 🔥 Languages & Frameworks & Tools 🔥
+## 🔥 Languages & Frameworks & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,nodejs,express,mongodb,git,vscode,figma,vite,npm&perline=14&theme=dark" alt="Tech Stack" />
