@@ -46,36 +46,22 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajmainhossain7&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=0ea5e9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajmainhossain7&langs_count=6&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=ffffff" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajmainhossain7&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=0ea5e9&currStreakLabel=7c3aed&sideLabels=a5b4fc&dates=4b5563" alt="GitHub Streak" width="49%" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajmainhossain7&theme=tokyonight&hide_border=true&utcOffset=6" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajmainhossain7&theme=tokyonight&hide_border=true&utcOffset=6" />
 
----
 
-## ✈️ Contribution Jet
+<img src="https://raw.githubusercontent.com/ajmainhossain7/ajmainhossain7/output/github-contribution-grid-snake-dark.svg" alt="Contribution Jet" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajmainhossain7/ajmainhossain7/output/github-contribution-grid-snake-dark.svg" alt="Contribution Jet Animation" />
-</p>
+</div>
 
 ---
 
