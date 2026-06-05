@@ -55,7 +55,7 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajmainhossain7&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=0ea5e9&currStreakLabel=7c3aed&sideLabels=a5b4fc&dates=4b5563" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=ajmainhossain7&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=0ea5e9&currStreakLabel=7c3aed&sideLabels=a5b4fc&dates=4b5563" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
