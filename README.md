@@ -55,7 +55,7 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=ajmainhossain7&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=0ea5e9&currStreakLabel=7c3aed&sideLabels=a5b4fc&dates=4b5563" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ajmainhossain7&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=0ea5e9&currStreakLabel=7c3aed&sideLabels=a5b4fc&dates=4b5563" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
@@ -64,9 +64,15 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 
 ---
 
+## ✈️ Contribution Jet
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ajmainhossain7/ajmainhossain7/output/github-contribution-grid-snake-dark.svg" alt="Contribution Jet Animation" />
+</p>
+
+---
+
 ## 🔗 Connect with Me
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdajmainhossain07">
@@ -85,9 +91,5 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:7c3aed,100:4f46e5&section=footer" width="100%"/>
