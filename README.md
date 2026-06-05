@@ -66,6 +66,8 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 
 ## 🔗 Connect with Me
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mdajmainhossain07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -84,8 +86,8 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:7c3aed,100:4f46e5&section=footer" width="100%"/>
