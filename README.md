@@ -59,7 +59,14 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmainhossain7&theme=tokyo-night&radius=10&hide_border=true&bg_color=0d0d1a&color=7c3aed&line=0ea5e9&point=a5b4fc" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmainhossain7&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajmainhossain7&theme=tokyonight&hide_border=true&utcOffset=6" />
 </p>
 
 ---
