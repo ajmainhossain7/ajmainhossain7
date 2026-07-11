@@ -26,12 +26,12 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 
 <br/>
 
-- &nbsp; Currently building full-stack web apps with **React** & **Node.js**
+- &nbsp; Currently building full-stack web apps with **Next.js** & **Node.js**
 - &nbsp; Exploring **TypeScript** & **MongoDB**  in depth
 - &nbsp; Obsessed with clean UI & premium user experiences
 - &nbsp; Diving deeper into **Next.js** & server-side rendering
 - &nbsp; Open to collaborating on exciting **MERN** projects
-- &nbsp; Ask me about **React**, **JavaScript**, or **UI design**
+- &nbsp; Ask me about **Next**, **JavaScript**, or **UI design**
 - &nbsp; Reach me at **ajmainh0@gmail.com**
 
 <br clear="right"/>
