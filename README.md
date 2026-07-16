@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=ajmainhossain7&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-7c3aed?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-7c3aed?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20🇧🇩-0ea5e9?style=flat-square" />
   &nbsp;
