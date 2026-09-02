@@ -30,7 +30,7 @@ I am a dedicated **MERN Stack Developer** with a sharp eye for modern aesthetics
 - &nbsp; Exploring **TypeScript** & **PostgreSQL**  in depth
 - &nbsp; Obsessed with clean UI & premium user experiences
 - &nbsp; Diving deeper into **Next.js** & server-side rendering
-- &nbsp; Open to collaborating on exciting **MERN** projects
+- &nbsp; Open to collaborating on exciting **Full Stack** projects
 - &nbsp; Ask me about **Next.js**, **JavaScript**, or **UI design**
 - &nbsp; Reach me at **ajmainh0@gmail.com**
 
