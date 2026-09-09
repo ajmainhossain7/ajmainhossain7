@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4f46e5,50:7c3aed,100:0ea5e9&text=Ajmain%20Hossain&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=44&desc=✦%20%20MERN%20Stack%20Developer%20%20✦&descSize=20&descColor=e0e7ff&descAlignY=66&stroke=ffffff&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4f46e5,50:7c3aed,100:0ea5e9&text=Ajmain%20Hossain&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=44&desc=✦%20%20Full%20Stack%20Developer%20%20✦&descSize=20&descColor=e0e7ff&descAlignY=66&stroke=ffffff&strokeWidth=0" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=7c3aed&center=true&vCenter=true&width=540&height=40&lines=MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Building+clean+%26+powerful+web+apps;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
